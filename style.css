@@ -1,0 +1,17 @@
+#hero {
+  background-image: url(img/hero.jpg);
+  height: 450px;
+  background-size: cover;
+  justify-content: center;
+  flex-direction: column;
+}
+* {
+  flex-direction: column;
+}
+i {
+  vertical-align: bottom;
+}
+.nav-wrapper {
+  margin-left: 10px;
+  margin-right: 10px;
+}
