@@ -13,5 +13,10 @@ i {
 }
 .nav-wrapper {
   margin-left: 10px;
-  margin-right: 10px;
+}
+.card-content h6 {
+  font-size: 18px;
+}
+.input-field {
+  color: green;
 }
