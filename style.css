@@ -5,11 +5,12 @@
   justify-content: center;
   flex-direction: column;
 }
-* {
+/** {
   flex-direction: column;
-}
+}*/
 i {
   vertical-align: bottom;
+  flex-direction: column;
 }
 .nav-wrapper {
   margin-left: 10px;
@@ -17,6 +18,6 @@ i {
 .card-content h6 {
   font-size: 18px;
 }
-.input-field {
-  color: green;
+#totals {
+  visibility: hidden;
 }
